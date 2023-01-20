@@ -83,8 +83,8 @@ DATABASES = {
         "NAME": "blog",
         "USER": "angy",
         "PASSWORD": "mysecretpassword",
-        "HOST": "localhost",
-        "PORT": "5432"
+        "HOST": "django-api-blog-production.up.railway.app",
+        "PORT": "8000"
     }
 }
 
